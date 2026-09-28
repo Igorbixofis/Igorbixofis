@@ -1,10 +1,10 @@
 <div align="center">
   <!-- Banner Animado Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=181825&height=220&section=header&text=André%20Passos&fontSize=60&animation=twinkle&fontColor=cba6f7" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=181825&height=220&section=header&text=Igor%20Garcia%20Bixofis&fontSize=60&animation=twinkle&fontColor=cba6f7" />
 
   <!-- Contador Total de Visitas -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=andre2353&label=Visitas%20no%20perfil&color=313244&style=flat-square" alt="Contador de Visitas" />
+    <img src="https://komarev.com/ghpvc/?username=Igorbixofis&label=Visitas%20no%20perfil&color=313244&style=flat-square" alt="Contador de Visitas" />
   </p>
 
   <!-- Texto Animado (Typing SVG) -->
@@ -16,24 +16,24 @@
 
   <!-- Estatísticas Gerais e Linguagens -->
   <a href="https://github.com/Igorbixofis">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=andre2353&show_icons=true&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&include_all_commits=true&count_private=true&cache_seconds=1800&v=2"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Igorbixofis&show_icons=true&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&include_all_commits=true&count_private=true&cache_seconds=1800&v=2"/>
   </a>
-  <a href="https://github.com/andre2353">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=andre2353&layout=donut&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&cache_seconds=1800&v=2"/>
+  <a href="https://github.com/Igorbixofis">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Igorbixofis&layout=donut&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&cache_seconds=1800&v=2"/>
   </a>
 
   <br /><br />
 
   <!-- Sequência de Commits (GitHub Streak) -->
-  <a href="https://github.com/andre2353">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=andre2353&background=181825&border=313244&stroke=cba6f7&ring=cba6f7&fire=cba6f7&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=cba6f7&sideLabels=6c7086&dates=6c7086&cache_seconds=1800&v=2" alt="GitHub Streak" />
+  <a href="https://github.com/Igorbixofis">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Igorbixofis&background=181825&border=313244&stroke=cba6f7&ring=cba6f7&fire=cba6f7&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=cba6f7&sideLabels=6c7086&dates=6c7086&cache_seconds=1800&v=2" alt="GitHub Streak" />
   </a>
 
   <br /><br />
 
   <!-- Estatísticas de Tempo de Programação (WakaTime) -->
-  <a href="https://github.com/andre2353">
-    <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=andre2353&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&layout=compact&cache_seconds=1800&v=2" alt="WakaTime Stats" />
+  <a href="https://github.com/Igorbixofis">
+    <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=Igorbixofis&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&layout=compact&cache_seconds=1800&v=2" alt="WakaTime Stats" />
   </a>
 </div>
 
@@ -42,12 +42,12 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> Sobre Mim
 
-- 🎓 **Formação:** Cursando **Desenvolvimento de Sistemas** no SENAI Suíço-Brasileiro, e **farmácia** na Unifecaf
+- 🎓 **Formação:** Cursando **Técnico em Desenvolvimento de Sistemas** no SENAI Suíço-Brasileiro, e graduação em **Farmácia** na Unifecaf
 - 💻 **Foco de Atuação:** Back-End com **Java + Spring Boot**, construção de APIs REST completas (Controller → Service → Repository) com tratamento de erros e validação padronizados
 - 🗄️ **Trabalho com:** Spring Data JPA, MySQL e modelagem de relacionamentos entre entidades
 - 📚 **Aprendendo Atualmente:** Arquitetura de Software, Clean Code e boas práticas de API design
 - 🎯 **Objetivo:** Criar aplicações escaláveis e eficientes resolvendo problemas reais
-- 📬 **E-mail:** [igorgarciabixofis@gmail.com](mailto:andrepassosdossantos64@gmail.com)
+- 📬 **E-mail:** [igorgarciabixofis@gmail.com](mailto:igorgarciabixofis@gmail.com)
 
 <!-- Divisor Animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=313244&height=100&section=header" width="100%" />
@@ -78,7 +78,7 @@
 ### 🐍 Snake Animation (Contribuições no GitHub)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andre2353/andre2353/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Igorbixofis/Igorbixofis/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 <!-- Divisor Animado -->
@@ -87,16 +87,16 @@
 ### 📌 Projetos em Destaque
 
 <p align="left">
-  <a href="https://github.com/Andre2353/TechStore">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Andre2353&repo=TechStore&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&v=2" />
+  <a href="https://github.com/Igorbixofis/TechStore">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Igorbixofis&repo=TechStore&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&v=2" />
   </a>
-  <a href="https://github.com/Andre2353/Relulab">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Andre2353&repo=Relulab&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&v=2" />
+  <a href="https://github.com/Igorbixofis/Relulab">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Igorbixofis&repo=Relulab&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&v=2" />
   </a>
 </p>
 <p align="left">
-  <a href="https://github.com/Andre2353/ppdm-base">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Andre2353&repo=ppdm-base&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&v=2" />
+  <a href="https://github.com/Igorbixofis/ppdm-base">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Igorbixofis&repo=ppdm-base&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&v=2" />
   </a>
 </p>
 
