@@ -1,129 +1,164 @@
 <div align="center">
-  <!-- Banner Animado Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=181825&height=220&section=header&text=Igor%20Garcia%20Bixofis&fontSize=60&animation=twinkle&fontColor=cba6f7" />
 
-  <!-- Contador Total de Visitas -->
+  <!-- Banner -->
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B3D5C&height=220&section=header&text=Igor%20Garcia%20Bixofis&fontSize=60&animation=twinkle&fontColor=4FC3F7" />
+
+  <!-- Contador de Visitas -->
+
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Igorbixofis&label=Visitas%20no%20perfil&color=313244&style=flat-square" alt="Contador de Visitas" />
+    <img src="https://komarev.com/ghpvc/?username=Igorbixofis&label=Visitas%20no%20perfil&color=0B3D5C&style=flat-square" alt="Contador de Visitas" />
   </p>
 
-  <!-- Texto Animado (Typing SVG) -->
+  <!-- Typing -->
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CBA6F7&center=true&vCenter=true&width=550&lines=Desenvolvedor+Back-End+em+Formacao;Java+%7C+Spring+Boot+%7C+JPA;APIs+REST+%7C+MySQL;SENAI+Suico-Brasileiro;Construindo+solucoes+escalaveis" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FC3F7&center=true&vCenter=true&width=650&lines=Desenvolvedor+Back-End+em+Formacao;Java+%7C+Spring+Boot+%7C+JPA;APIs+REST+%7C+MySQL;Farmacia+%2B+Tecnologia;Construindo+solucoes+para+problemas+reais" alt="Typing SVG" />
   </a>
 
-  <br /><br />
+<br /><br />
 
-  <!-- Estatísticas Gerais e Linguagens -->
+  <!-- Estatísticas -->
+
   <a href="https://github.com/Igorbixofis">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Igorbixofis&show_icons=true&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&include_all_commits=true&count_private=true&cache_seconds=1800&v=2"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Igorbixofis&show_icons=true&bg_color=0B1924&title_color=4FC3F7&text_color=D6EAF5&icon_color=29B6F6&border_color=156082&include_all_commits=true&count_private=true&cache_seconds=1800&v=2"/>
   </a>
+
   <a href="https://github.com/Igorbixofis">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Igorbixofis&layout=donut&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&cache_seconds=1800&v=2"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Igorbixofis&layout=donut&bg_color=0B1924&title_color=4FC3F7&text_color=D6EAF5&icon_color=29B6F6&border_color=156082&cache_seconds=1800&v=2"/>
   </a>
 
-  <br /><br />
+<br /><br />
 
-  <!-- Sequência de Commits (GitHub Streak) -->
+  <!-- GitHub Streak -->
+
   <a href="https://github.com/Igorbixofis">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Igorbixofis&background=181825&border=313244&stroke=cba6f7&ring=cba6f7&fire=cba6f7&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=cba6f7&sideLabels=6c7086&dates=6c7086&cache_seconds=1800&v=2" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Igorbixofis&background=0B1924&border=156082&stroke=29B6F6&ring=29B6F6&fire=4FC3F7&currStreakNum=D6EAF5&sideNums=D6EAF5&currStreakLabel=4FC3F7&sideLabels=78909C&dates=78909C&cache_seconds=1800&v=2" alt="GitHub Streak" />
   </a>
 
-  <br /><br />
+<br /><br />
 
-  <!-- Estatísticas de Tempo de Programação (WakaTime) -->
+  <!-- WakaTime -->
+
   <a href="https://github.com/Igorbixofis">
-    <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=Igorbixofis&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&layout=compact&cache_seconds=1800&v=2" alt="WakaTime Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=Igorbixofis&bg_color=0B1924&title_color=4FC3F7&text_color=D6EAF5&icon_color=29B6F6&border_color=156082&layout=compact&cache_seconds=1800&v=2" alt="WakaTime Stats" />
   </a>
+
 </div>
 
-<!-- Divisor Animado em Onda -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=313244&height=100&section=header" width="100%" />
+<!-- Divisor -->
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> Sobre Mim
+<img src="https://capsule-render.vercel.app/api?type=waving&color=156082&height=100&section=header" width="100%" />
 
-- 🎓 **Formação:** Cursando **Técnico em Desenvolvimento de Sistemas** no SENAI Suíço-Brasileiro, e graduação em **Farmácia** na Unifecaf
-- 💻 **Foco de Atuação:** Back-End com **Java + Spring Boot**, construção de APIs REST completas (Controller → Service → Repository) com tratamento de erros e validação padronizados
-- 🗄️ **Trabalho com:** Spring Data JPA, MySQL e modelagem de relacionamentos entre entidades
-- 📚 **Aprendendo Atualmente:** Arquitetura de Software, Clean Code e boas práticas de API design
-- 🎯 **Objetivo:** Criar aplicações escaláveis e eficientes resolvendo problemas reais
-- 📬 **E-mail:** [igorgarciabixofis@gmail.com](mailto:igorgarciabixofis@gmail.com)
+### 👨‍💻 Sobre Mim
 
-<!-- Divisor Animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=313244&height=100&section=header" width="100%" />
+* 🎓 **Formação:** Cursando **Técnico em Desenvolvimento de Sistemas** no SENAI Suíço-Brasileiro e graduação em **Farmácia** na UniFECAF.
+* 💻 **Foco:** Desenvolvimento **Back-End**, principalmente com **Java e Spring Boot**.
+* 🔗 **Desenvolvimento de APIs:** Construção de APIs REST utilizando arquitetura em camadas (**Controller → Service → Repository**).
+* 🗄️ **Banco de Dados:** MySQL, modelagem de dados e relacionamentos entre entidades utilizando **Spring Data JPA / Hibernate**.
+* 🧩 **Desenvolvimento:** CRUDs, DTOs, validações, tratamento de exceções e regras de negócio.
+* 🔬 **Diferencial:** Integração entre conhecimentos de **Farmácia, Ciência, Tecnologia e Desenvolvimento de Sistemas**.
+* 📚 **Atualmente estudando:** Arquitetura de Software, Clean Code, boas práticas de API Design e desenvolvimento Back-End.
+* 🎯 **Objetivo:** Desenvolver soluções escaláveis e eficientes para problemas reais.
+* 📬 **E-mail:** [igorgarciabixofis@gmail.com](mailto:igorgarciabixofis@gmail.com)
 
-### 🛠️ Tech Stack & Ferramentas
+<img src="https://capsule-render.vercel.app/api?type=waving&color=156082&height=100&section=header" width="100%" />
 
-<!-- Ícones Dinâmicos das Tecnologias -->
+### 🛠️ Tech Stack
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,nodejs,js,mysql,oracle,linux,html,postman,idea,vscode,git,github&theme=dark&perline=7" />
   </a>
 </p>
 
-<br />
+### 🔧 Principais Competências
 
-<!-- Badges Estilizados Adicionais -->
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Data JPA"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=json&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Java-156082?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-156082?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-156082?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-156082?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-156082?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-156082?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-156082?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-156082?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-<!-- Divisor Animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=313244&height=100&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=156082&height=100&section=header" width="100%" />
 
-### 🐍 Snake Animation (Contribuições no GitHub)
+### 🐍 Contribuições
 
 <div align="center">
+
   <img src="https://raw.githubusercontent.com/Igorbixofis/Igorbixofis/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
 </div>
 
-<!-- Divisor Animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=313244&height=100&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=156082&height=100&section=header" width="100%" />
 
 ### 📌 Projetos em Destaque
 
-<p align="left">
-  <a href="https://github.com/Igorbixofis/TechStore">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Igorbixofis&repo=TechStore&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&v=2" />
-  </a>
-  <a href="https://github.com/Igorbixofis/Relulab">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Igorbixofis&repo=Relulab&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&v=2" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/Igorbixofis/ppdm-base">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Igorbixofis&repo=ppdm-base&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&v=2" />
-  </a>
-</p>
-
-<!-- Divisor Animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=313244&height=100&section=header" width="100%" />
-
-### 📌 Destaques & Interatividade
-
 <div align="center">
-  <!-- Quote Card -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&border_color=313244" alt="Quote Card" />
 
-  <br /><br />
+  <a href="https://github.com/Igorbixofis/ECOMMERCE">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Igorbixofis&repo=ECOMMERCE&bg_color=0B1924&title_color=4FC3F7&text_color=D6EAF5&icon_color=29B6F6&border_color=156082&v=2" />
+  </a>
 
-  <!-- Dev Joke Card -->
-  <img src="https://readme-jokes.vercel.app/api?bg_color=181825&title_color=cba6f7&text_color=cdd6f4&border_color=313244" alt="Jokes Card" />
+  <a href="https://github.com/ProHuari">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ProHuari&repo=ProHuari&bg_color=0B1924&title_color=4FC3F7&text_color=D6EAF5&icon_color=29B6F6&border_color=156082&v=2" />
+  </a>
+
+  <br />
+
+  <a href="https://github.com/Igorbixofis/ConverMoney">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Igorbixofis&repo=ConverMoney&bg_color=0B1924&title_color=4FC3F7&text_color=D6EAF5&icon_color=29B6F6&border_color=156082&v=2" />
+  </a>
+
 </div>
 
-<br />
+### 📂 Sobre os Projetos
 
-### 🌍 Origem dos Visitantes
+**ECOMMERCE**
+Aplicação de e-commerce desenvolvida com foco em desenvolvimento Back-End, organização em camadas, entidades, regras de negócio, persistência de dados e APIs REST.
+
+**ProHuari**
+Projeto colaborativo voltado ao desenvolvimento de uma solução de software, envolvendo organização de código, desenvolvimento de funcionalidades e trabalho com Git/GitHub.
+
+**ConverMoney**
+Aplicação voltada para conversão e manipulação de valores, explorando lógica de programação, desenvolvimento de funcionalidades e integração entre componentes.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=156082&height=100&section=header" width="100%" />
+
+### 🧪 Farmácia + Tecnologia
+
+Minha formação em **Farmácia** complementa minha trajetória em **Desenvolvimento de Sistemas**, permitindo unir conhecimentos de ciência, saúde e tecnologia.
+
+Tenho interesse em utilizar programação e desenvolvimento de software para solucionar problemas relacionados à **indústria farmacêutica, pesquisa, dados, processos e inovação**.
+
+Essa combinação também direciona meu interesse para aplicações tecnológicas em áreas como:
+
+* 💊 Indústria farmacêutica
+* 🔬 Pesquisa e Desenvolvimento
+* 🧬 Biotecnologia
+* 📊 Dados e sistemas
+* ⚗️ Processos laboratoriais
+* 💻 Sistemas para saúde
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=156082&height=100&section=header" width="100%" />
+
+### 📈 Próximos Passos
+
+Tecnologias e conceitos que fazem parte da minha evolução como desenvolvedor:
+
+`Spring Security` · `Swagger / OpenAPI` · `JUnit` · `Mockito` · `Docker` · `Arquitetura de Software` · `Clean Code` · `Design Patterns`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=156082&height=100&section=header" width="100%" />
 
 <div align="center">
-  <a href="https://info.flagcounter.com/90dM">
-    <img src="https://s11.flagcounter.com/count2/90dM/bg_181825/txt_CDD6F4/border_313244/columns_4/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" />
-  </a>
+
+### 🚀 Sempre aprendendo, construindo e evoluindo.
+
 </div>
 
-<!-- Rodapé Animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=181825&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B3D5C&height=120&section=footer" width="100%" />
